@@ -4,7 +4,9 @@ This project is completed as part of Health Care Analytics in Data Analytics for
 
 Team Members:
 Karthick Raja Radhakrishnan
+
 Saheli Konde
+
 Nikhita Garlapati
 
 Curated dataset Credit goes to:
