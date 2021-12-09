@@ -3,6 +3,7 @@ Detection of Covid-19 from healthy individuals using lung CT scans. The project 
 This project is completed as part of Health Care Analytics in Data Analytics for Business PG-Diploma course.
 
 Team Members:
+
 Karthick Raja Radhakrishnan
 
 Saheli Konde
