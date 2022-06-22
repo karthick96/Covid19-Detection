@@ -1,6 +1,5 @@
 Covid19 Detection
 Detection of Covid-19 from healthy individuals using lung CT scans. The project scope involves classification of Pneumonia from Covid and healthy as well.
-This project is completed as part of Health Care Analytics in Data Analytics for Business PG-Diploma course.
 
 Curated dataset Credit goes to:
 Maftouni, M., Law, A.C, Shen, B., Zhou, Y., Yazdi, N., and Kong, Z.J. “A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database,” 
