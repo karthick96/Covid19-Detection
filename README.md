@@ -1,9 +1,9 @@
 Covid19 Detection:\
-Detection of Covid-19 from healthy individuals using lung CT scans. The project scope involves classification of Pneumonia from Covid and healthy as well.\
+Detection of Covid-19 from healthy individuals using lung CT scans. The project scope involves classification of Pneumonia from Covid and healthy as well.
 
 Curated dataset Credit goes to:\
 Maftouni, M., Law, A.C, Shen, B., Zhou, Y., Yazdi, N., and Kong, Z.J. “A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database,” 
-Proceedings of the 2021 Industrial and Systems Engineering Conference, Virtual Conference, May 22-25, 2021.\
+Proceedings of the 2021 Industrial and Systems Engineering Conference, Virtual Conference, May 22-25, 2021.
 
 Content:\
 "HealthCare Project - Covid/Pneumonia Detection.ipynb" to see results of binary and multi-class classification built up from scratch\
